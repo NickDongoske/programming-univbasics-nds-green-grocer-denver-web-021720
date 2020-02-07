@@ -43,7 +43,7 @@ def apply_coupons(cart, coupons)
   
   while i < coupons.length do
     
-  
+  i += 1
 end
   
 end
